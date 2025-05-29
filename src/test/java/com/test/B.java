@@ -6,5 +6,6 @@ public class B {
 @Test
 public void btest() {
 	System.out.println("hello");
+	System.out.println("123456");
 }
 }
